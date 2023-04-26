@@ -19,6 +19,7 @@ I love ML, Vision and Games
 I am interested in
 + Object detection
 + Face Recognition
++ Knowledge Graph
 + Full-stack development  
   
 
