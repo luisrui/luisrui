@@ -29,7 +29,7 @@ I am interested in
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/luisrui/AIexperiment)  
+- 🔭 I’m currently working on [LasVagas](https://github.com/luisrui/LasVagas)  
   
 
 - 🌱 I’m currently learning MySQL  
