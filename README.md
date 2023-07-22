@@ -17,9 +17,9 @@ I’m a junior student Majored in AI in Xi'an Jiaotong University.
 I love ML, Vision and Games
 
 I am interested in
-+ Object detection
-+ Face Recognition
-+ Knowledge Graph
++ Multi-modal Learning
++ Graph Learning
++ Object Detection % Face Recognition & Knowledge Graphs
 + Full-stack development  
   
 
