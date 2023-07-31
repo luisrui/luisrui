@@ -91,7 +91,7 @@ I am interested in
 
 <br/>  
 
-[![luisrui's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisrui)](https://github.com/anuraghazra/github-readme-stats) 
+![Profile views counter](https://komarev.com/ghpvc/?username=luisrui&&style=flat-square)
   
 
 <br/>  
