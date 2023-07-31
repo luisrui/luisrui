@@ -19,7 +19,7 @@ I love ML, Vision and Games
 I am interested in
 + Multi-modal Learning
 + Graph Learning
-+ Object Detection % Face Recognition & Knowledge Graphs
++ Object Detection & Face Recognition & Knowledge Graphs
 + Full-stack development  
   
 
@@ -91,7 +91,7 @@ I am interested in
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=luisrui&&style=flat-square)  
+[![luisrui's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisrui)](https://github.com/anuraghazra/github-readme-stats) 
   
 
 <br/>  
