@@ -26,18 +26,6 @@ I am interested in
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on [LasVagas](https://github.com/luisrui/LasVagas)  
-  
-
-- 🌱 I’m currently learning MySQL & Three.js  
-  
-
-- ❓ Ask me about anything related to OD, or multimodal 
-
-
 </td><td valign="top" width="50%">
 
 <div align="center">
