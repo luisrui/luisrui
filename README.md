@@ -14,7 +14,7 @@
 ### Hello There!  
 I’m a junior student Majored in AI in Xi'an Jiaotong University. 
 
-I love ML, Vision and Games
+I love ML, Multimodality and Games
 
 I am interested in
 + Multi-modal Learning
