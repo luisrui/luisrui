@@ -24,7 +24,6 @@ I am interested in
   
 
 <br/>  
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=a1pAM33cC63A9r8CmdPUHCDOAtK2u83UfWQaQIIKyto"></script>
 
 </td><td valign="top" width="50%">
 
