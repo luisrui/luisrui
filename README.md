@@ -31,11 +31,10 @@ I am interested in
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-<a href="http://www.clustrmaps.com/map/Github.com/luisrui" title="Visit tracker for Github.com/luisrui"><img src="//www.clustrmaps.com/map_v2.png?d=a1pAM33cC63A9r8CmdPUHCDOAtK2u83UfWQaQIIKyto" /></a>
 </td></tr></table>  
 
 <br/>  
-
+<a href="http://www.clustrmaps.com/map/Github.com/luisrui" title="Visit tracker for Github.com/luisrui"><img src="//www.clustrmaps.com/map_v2.png?d=a1pAM33cC63A9r8CmdPUHCDOAtK2u83UfWQaQIIKyto" /></a>
 
 ## Languages and Tools  
 <div align="center">  
