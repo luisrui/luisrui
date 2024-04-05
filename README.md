@@ -20,7 +20,7 @@ I am interested in
 + Multi-modal Learning
 + Graph Learning
 + Object Detection & Face Recognition & Knowledge Graphs
-+ Full-stack development  
++ Full-stack development (hobby)
   
 
 <br/>  
