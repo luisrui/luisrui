@@ -19,7 +19,7 @@ I love ML, Multimodality and Games
 I am interested in
 + Multi-modal Learning
 + Graph Learning
-+ Applications: Object Detection & Face Recognition & Knowledge Graphs
++ Applications: Vision, Data Mining, NLP
 + Full-stack development (hobby)
   
 
