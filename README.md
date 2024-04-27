@@ -12,7 +12,7 @@
 
 
 ### Hello There!  
-I’m a junior student Majored in AI in Xi'an Jiaotong University. 
+I’m a reseacher currently in US. I obtained my bachelor degree Majored in AI at Xi'an Jiaotong University. 
 
 I love ML, Multimodality and Games
 
