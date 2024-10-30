@@ -9,13 +9,12 @@
 
 
 ### Hello There!  
-I’m a reseacher currently in US. I obtained my bachelor degree Majored in AI at Xi'an Jiaotong University. 
+I’m a CS PhD student in UCDavis.  
 
 I love ML, Multimodality and Games
 
 I am interested in
 + Multi-modal Learning
-+ Graph Learning
 + Applications: Vision, Data Mining, NLP
 + Full-stack development (hobby)
   
