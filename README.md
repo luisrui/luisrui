@@ -15,7 +15,7 @@ I love ML, Multimodality and Games
 
 I am interested in
 + Multi-modal Learning
-+ Applications: Vision, Data Mining, NLP
++ Applications: Vision, NLP, Personalization
 + Full-stack development (hobby)
   
 
