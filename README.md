@@ -14,9 +14,9 @@ I’m a CS PhD student in UCDavis.
 I love ML, Multimodality and Games
 
 I am interested in
-+ Multi-modal Learning
++ Machine Learning, Generalization
 + Applications: Vision, NLP, Personalization
-+ Full-stack development (hobby)
++ Game Development (hobby)
   
 
 <br/>  
