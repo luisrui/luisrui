@@ -1,4 +1,4 @@
-## 你好!Ni Hao!  👋, I'm Rui Cai(Yanson)!  
+## 你好!Ni Hao!  👋, I'm Rui Cai!  
   
 
 <a href="https://github.com/luisrui" target="_blank">
